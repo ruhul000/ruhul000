@@ -4,14 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End Developer
 ------------------
 
-I have nearly 8 years of experience in analyzing, designing, developing, and maintaining high-quality software solutions utilizing cutting-edge technologies that meet and exceed client expectations. I have a proven track record of successfully working with multinational teams, encompassing individuals with a wide range of technical expertise, spanning various locations and organizations while embracing diverse work cultures. I am proficient in understanding and translating complex business requirements into high-quality software solutions. I have strong expertise in operating in a DevOps environment and implementing Agile processes for efficient product development maintaining an efficient software development lifecycle. I am effective in prioritizing product backlog items, sprint planning, and coordinating with stakeholders for optimal value delivery. I am proficient in monitoring and ensuring the smooth execution of automated processes, taking responsibility for identifying and resolving any issues or errors encountered during automation. I am actively involved in code reviews and refactoring legacy components to improve maintainability, performance, and scalability. I have a track record of recruiting, building, and retaining top technical talent, fostering a culture of engineering excellence and continuous learning. I am experienced in managing various administrative tasks, making strategic decisions, and maintaining meticulous documentation aligned with organizational goals. I have Industry experience in Media, Software, E-commerce, Telecommunications, Healthcare, Logistics, Supply Chain, Drop-shipment, Manufacturing, HR-Payroll, Accounting, and other Financial Sectors with a customer-centric mindset.
+I have over 7 years of experience in professional software development with  3.5 years of remote work experience specializing in C# and .Net Technologies. I've worked with various technologies, including C#, .NET 6, VB.NET, ASP.NET MVC, ASP.NET CORE, Entity Framework, REST API, SOAP API, MSSQL, MySQL, and more. I am well-versed in Agile methodologies and have experience with CI/CD using tools like Git, AWS S3, Azure DevOps, Confluence, and Jira.
+
+In addition to my technical skills, I excel in formulating and defining system scope and objectives for complex software applications. Actively engaging in code reviews and legacy component refactoring, I bring a robust ability to prioritize backlog items for optimal value delivery during sprint planning. Collaborating closely with product management, architects, and cross-functional teams, I am committed to identifying optimal solutions. Moreover, I have hands-on experience in researching and preparing Proof of Concept (POC) code for upcoming features and addressing design and requirement issues in collaboration with business and engineering teams.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [MyPortfolio](http://docs.google.com/document/d/e/2PACX-1vTQmQgOMkDJYmLjz2NYnBPMqruT7vuVq1X_qlekgpBj8azwm8aa_v0e4R9-5PDGsMi_AmhF5SqJ8FPp/pub)
 * ✉️  You can contact me at [ruhul.ewu00@gmail.com](mailto:ruhul.ewu00@gmail.com)
-* 🧠  I'm learning ReactJs, DevOps and Microservice Architechture
+* 🧠  I'm learning ReactJs, DevOps, and Microservice architecture
 * 🤝  I'm open to collaborating on any microservice based project
-* ⚡  I love travelling a lot. I love to call myself TRAVENEER (Travelling Engineer)
+* ⚡  I love traveling a lot. I love to call myself TRAVENEER (Travelling Engineer)
 
 <a href="https://www.github.com/ruhul000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ruhul000?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
