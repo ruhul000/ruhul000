@@ -41,11 +41,3 @@ src="https://img.shields.io/github/followers/ruhul000?logo=github&style=for-the-
 <a href="http://www.github.com/ruhul000"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ruhul000&bg_color=181824&color=ffffff&line=a855f7&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ruhul000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhul000&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ruhulamin00"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
