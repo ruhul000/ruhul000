@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruhul Amin
 ==================================================================================================================================
 
-Back-End Developer
+Software Engineer
 ------------------
 
 I have over 7 years of experience in professional software development with  3.5 years of remote work experience specializing in C# and .Net Technologies. I've worked with various technologies, including C#, .NET 6, VB.NET, ASP.NET MVC, ASP.NET CORE, Entity Framework, REST API, SOAP API, MSSQL, MySQL, and more. I am well-versed in Agile methodologies and have experience with CI/CD using tools like Git, Azure DevOps, Docker, Kubernetes, TeamCity, and Jira.
@@ -12,7 +12,7 @@ In addition to my technical skills, I excel in formulating and defining system s
 * 🖥️  See my portfolio at [MyPortfolio](http://docs.google.com/document/d/e/2PACX-1vTQmQgOMkDJYmLjz2NYnBPMqruT7vuVq1X_qlekgpBj8azwm8aa_v0e4R9-5PDGsMi_AmhF5SqJ8FPp/pub)
 * ✉️  You can contact me at [ruhul.ewu00@gmail.com](mailto:ruhul.ewu00@gmail.com)
 * 🧠  I'm learning ReactJs, DevOps, and Microservice architecture
-* 🤝  I'm open to collaborating on any microservice based project
+* 🤝  I'm open to collaborating on any microservice-based project
 * ⚡  I love traveling a lot. I love to call myself TRAVENEER (Travelling Engineer)
 
 ### Skills
