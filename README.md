@@ -15,9 +15,6 @@ In addition to my technical skills, I excel in formulating and defining system s
 * 🤝  I'm open to collaborating on any microservice based project
 * ⚡  I love traveling a lot. I love to call myself TRAVENEER (Travelling Engineer)
 
-<a href="https://www.github.com/ruhul000" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ruhul000?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
-
 ### Skills
 
 
